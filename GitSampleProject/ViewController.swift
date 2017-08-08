@@ -15,6 +15,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         
         print("Working...........")
+        
+        //git config --global user.name "Srinivas M"
+        //git config --global user.email "cnivasmobility@gmail.com"
     }
 
     override func didReceiveMemoryWarning() {
