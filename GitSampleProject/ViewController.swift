@@ -16,8 +16,6 @@ class ViewController: UIViewController {
         
         print("Working....")
         
-        print("XYZ")
-        
         //git config --global user.name "Srinivas M"
         //git config --global user.email "cnivasmobility@gmail.com"
     }
